@@ -1,0 +1,7 @@
+Log de renderização do Adobe After Effects v15.1.2 Windows 64 para o projeto“ENEL_V4.aep”
+
+Renderização iniciada em 04/02/2019 às 21:26:50
+
+  04/02/2019 21:26:50: iniciando composição “ENEL”.
+
+  Configurações de renderização: Melhores configs  Qualidade: Melhor  Resolução: Terceiro  Tamanho: 1920 x 1080 (640 x 360)  Uso do proxy: Não usar substitutos  Efeitos: Configurações atuais  Cache de disco: Somente leitura  Profundidade de cor: Configurações atuais  Mesclagem de quadros: Desativ. p/ todas as camadas  Renderização de campo: Desativado  Pulldown: Desativado  Desfoque de movimento: Ativado para camadas selecionadas  Isolamentos: Configurações atuais  Período de tempo: Espaço de trabalho  Início: 0:00:00:00  Fim: 0:01:10:26  Duração: 0:01:10:27  Taxa de quadros: 30,00 (composição)  Camadas de guia: Tudo desativado  Ignorar arquivos existentes: Desativado    Módulo de saída: Sem perdas  Saída para: C:\Users\10\Documents\git\Vibe\Vibe\Campaign\ENEL_Tatiane Fraga.avi  Formato: AVI  Informações de saída: Xvid MPEG-4 Codec  Incluir: -  Áudio de saída: 48.000 kHz / 16 bit / Estéreo (se a composição tiver áudio)  Canais: RGB  Profundidade: Milhões de cores  Cor: Pré-multiplicado  Redimensionar: -  Cortar: -  Tamanho final: 640 x 360  Perfil: -  Ação de pós-renderização: Nenhum  
